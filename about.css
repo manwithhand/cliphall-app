@@ -1,0 +1,60 @@
+.header {
+    color: green;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+
+.linkheader {
+    color: green;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+.about {
+
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    font-size: 40px;
+
+}
+
+.outerabout {
+
+    text-align: center;
+    
+}
+
+body {
+    background-color: #292929;
+}
+
+.discordlogo {
+   text-decoration: none; 
+   font-size: 50px;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.discord {
+    size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.youtubelogo {
+    size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
+
